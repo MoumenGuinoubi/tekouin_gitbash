@@ -1,3 +1,3 @@
 #!/bin/bash
 ln -s ls __ls__
-bash __execute_file
+bash execute_file
